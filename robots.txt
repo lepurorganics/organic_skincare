@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /organic_skincare/
+
+Sitemap: https://lepurorganics.github.io/organic_skincare/sitemap.xml
