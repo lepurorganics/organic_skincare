@@ -14,6 +14,7 @@ Plain HTML, CSS and JavaScript. No build step, no frameworks.
 |---|---|
 | `index.html` | Page 1 — brand profile, story, standard, concerns, FAQ |
 | `signature-products.html` | Page 2 — top 10 product guide, comparison table, routine, FAQ |
+| `media.html` | Page 3 — press coverage archive, starting with Dawn Images (2023) |
 | `style.css` | Brand theme |
 | `script.js` | Mobile menu and footer year only |
 | `404.html` | Branded not-found page |
